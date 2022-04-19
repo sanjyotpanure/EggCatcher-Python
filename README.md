@@ -11,9 +11,9 @@
      <td>Game Over</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sanjyotpanure/WebDev-ProjectKart/blob/master/images/screenshot1.PNG" width=700>
+    <td><img src="https://github.com/sanjyotpanure/EggCatcher-Python/blob/master/images/screenshot1.PNG" width=700>
     </td>
-    <td><img src="https://github.com/sanjyotpanure/WebDev-ProjectKart/blob/master/images/screenshot2.PNG" width=200>
+    <td><img src="https://github.com/sanjyotpanure/EggCatcher-Python/blob/master/images/screenshot2.PNG" width=200>
     </td>
   </tr>
 </table>
