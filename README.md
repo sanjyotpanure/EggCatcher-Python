@@ -29,7 +29,7 @@ Download the source code from the repository and run the file just as any other 
 
 ### Usage
 * Use **Left & Right Arrow Keys** to move the Bowl.
-* Each egg caries 10 points. Speed of eggs dropping increases
+* Each egg carries 10 points. Speed of eggs dropping increases gradually.
 * Try to collect maximum eggs and score high.
 #### Enjoy the game!
 
